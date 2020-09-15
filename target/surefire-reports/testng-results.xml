@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="47" started-at="2020-09-09T11:54:28Z" finished-at="2020-09-09T11:54:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="47" started-at="2020-09-09T11:54:28Z" finished-at="2020-09-09T11:54:28Z">
+      <class name="qaclick.mavanJava.appiumTest">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:qaclick.mavanJava.appiumTest@3b81a1bc]" name="IOSApp" duration-ms="1" started-at="2020-09-09T17:24:28Z" finished-at="2020-09-09T17:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="NativeAndroid()[pri:0, instance:qaclick.mavanJava.appiumTest@3b81a1bc]" name="NativeAndroid" duration-ms="0" started-at="2020-09-09T17:24:28Z" finished-at="2020-09-09T17:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAndroid -->
+      </class> <!-- qaclick.mavanJava.appiumTest -->
+      <class name="qaclick.mavanJava.apiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclick.mavanJava.apiTest@42d3bd8b]" name="deleteTwitter" duration-ms="9" started-at="2020-09-09T17:24:28Z" finished-at="2020-09-09T17:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclick.mavanJava.apiTest@42d3bd8b]" name="postJira" duration-ms="0" started-at="2020-09-09T17:24:28Z" finished-at="2020-09-09T17:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclick.mavanJava.apiTest -->
+      <class name="qaclick.mavanJava.seleniumTest">
+        <test-method status="PASS" signature="BrowserAuto()[pri:0, instance:qaclick.mavanJava.seleniumTest@64616ca2]" name="BrowserAuto" duration-ms="0" started-at="2020-09-09T17:24:28Z" finished-at="2020-09-09T17:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAuto -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qaclick.mavanJava.seleniumTest@64616ca2]" name="elementsUi" duration-ms="1" started-at="2020-09-09T17:24:28Z" finished-at="2020-09-09T17:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclick.mavanJava.seleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

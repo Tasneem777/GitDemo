@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57" started-at="2020-08-25T11:17:45 IST" finished-at="2020-08-25T11:17:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57" started-at="2020-08-25T11:17:45 IST" finished-at="2020-08-25T11:17:45 IST">
+      <class name="qaclick.mavanJava.seleniumTest">
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qaclick.mavanJava.seleniumTest@235834f2]" name="elementsUi" duration-ms="9" started-at="2020-08-25T11:17:45 IST" finished-at="2020-08-25T11:17:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclick.mavanJava.seleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
